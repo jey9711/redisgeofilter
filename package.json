@@ -2,9 +2,9 @@
   "name": "redisgeofinder",
   "version": "1.0.0",
   "description": "Geo Finder with Redis",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "author": "Jeremy Hidajat",
   "license": "ISC",
